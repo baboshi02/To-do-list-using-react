@@ -1,4 +1,4 @@
-# ToDO list
+# TODO list
 
 A Single Page to do list built with React Js and tailwind.
 
