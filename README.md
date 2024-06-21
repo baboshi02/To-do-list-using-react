@@ -1,8 +1,20 @@
-# React + Vite
+# ToDO list
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A Single Page to do list built with React Js and tailwind.
 
-Currently, two official plugins are available:
+## Prerequisites
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Node JS
+
+## Installation
+
+```bash
+git clone https://github.com/baboshi02/To-do-list-using-react.git
+cd To-do-list-using-react
+npm install
+npm run dev
+```
+
+## Preview
+
+<!-- To DO -->
